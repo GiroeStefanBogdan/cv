@@ -1,7 +1,7 @@
 # Giroe Ștefan Bogdan
 ### Java Backend Developer
 
-Backend-focused Java Developer building scalable, maintainable systems with strong emphasis on clean architecture and performance.
+Backend-focused Java Developer building scalable, maintainable systems with a strong emphasis on clean architecture and performance.
 
 ---
 
@@ -13,5 +13,5 @@ Backend-focused Java Developer building scalable, maintainable systems with stro
 
 ## 🔗 Connect
 
-- LinkedIn: https://www.linkedin.com/in/stefan-bogdan-giroe/
-- GitHub: https://github.com/GiroeStefanBogdan
+- [LinkedIn](https://www.linkedin.com/in/stefan-bogdan-giroe/)
+- [GitHub](https://github.com/GiroeStefanBogdan)
